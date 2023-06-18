@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    line-height: 2;
+    }
+    .start_button{
+        font-size: 25px;
+        border-radius:6px ;
+    } 
+    canvas{
+        border:5px solid rgb(255, 137, 53);
+        border-radius: 20px;
+    }   
